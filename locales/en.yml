@@ -1,3 +1,16 @@
 en:
   theme_metadata:
-    description: ""
+    description: "Extra banners for Discourse."
+  extra-banners:
+    categories:
+      title: "All categories"
+      description: "View the list of all forum categories."
+    latest:
+      title: "All topics"
+      description: "Browse latest topics from all categories."
+    top:
+      title: "Top topics"
+      description: "Browse most popular topics from all categories"
+    tags:
+      title: "All tags"
+      description: "View all tags used on the forum."
