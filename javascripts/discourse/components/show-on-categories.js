@@ -8,7 +8,7 @@ export default Component.extend({
 
   @discourseComputed("router.currentRouteName")
   canDisplay(currentRouteName) {
-    console.log(currentRouteName);
+    //console.log(currentRouteName);
     if (currentRouteName === `discovery.categories`) {
       return true;
     } else {
