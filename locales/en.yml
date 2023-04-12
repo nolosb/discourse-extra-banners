@@ -4,13 +4,19 @@ en:
   extra-banners:
     categories:
       title: "All categories"
-      description: "View the list of all forum categories."
+      description: "Browse the list of all forum categories."
     latest:
       title: "All topics"
-      description: "Browse latest topics from all categories."
+      description: "View latest topics from all categories."
     top:
       title: "Top topics"
-      description: "Browse most popular topics from all categories"
+      description: "View most popular topics from all categories"
     tags:
       title: "All tags"
-      description: "View all tags used on the forum."
+      description: "Browse all tags used on the forum."
+    new:
+      title: "New topics"
+      description: "View all new topics."
+    unread:
+      title: "Unread topics"
+      description: "View all unread topics."
