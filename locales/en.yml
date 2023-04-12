@@ -16,7 +16,7 @@ en:
       description: "Browse all tags used on the forum."
     new:
       title: "New topics"
-      description: "View all new topics."
+      description: "View new topics from all categories."
     unread:
       title: "Unread topics"
       description: "View all unread topics."
