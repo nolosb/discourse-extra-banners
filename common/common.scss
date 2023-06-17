@@ -1,0 +1,8 @@
+// Adjust the tags page wen using a banner
+body.tags-page .tags-controls {
+  h2 {
+    display: none; //hide the default heading
+  }
+  flex-direction: row-reverse; //align admin controls to the right
+  margin-bottom: -2rem; //adjust spacing as there's no title now
+}
